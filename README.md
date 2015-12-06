@@ -15,10 +15,3 @@ O O O O O
 O O O O O     => means all turned on.
 O O O O O
 O O O O O
-
-and the result is
-# # # O O
-O O # O O
-O O O # #
-# O O O #
-O # O O #
