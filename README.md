@@ -10,8 +10,15 @@ The Second Input value '#' is turned off, 'O'(Uppercase o, but never mind) is tu
 
 example)
 5
-# # # # #
-# # # # #
-# # # # #       => means all turned off.
-# # # # #
-# # # # #
+O O O O O
+O O O O O
+O O O O O     => means all turned on.
+O O O O O
+O O O O O
+
+and the result is
+# # # O O
+O O # O O
+O O O # #
+# O O O #
+O # O O #
